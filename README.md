@@ -1,5 +1,7 @@
 # groupies
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/aunysillyme-dev/groupies/badge)](https://scorecard.dev/viewer/?uri=github.com/aunysillyme-dev/groupies)
+
 Redirect stub. This project was renamed to **Groupthink**.
 
 - Live: https://aunysillyme.github.io/groupthink/
